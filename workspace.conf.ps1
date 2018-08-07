@@ -13,6 +13,7 @@ $VersionControlRepos = @(
 	"https://github.com/pip-services-dotnet/pip-services-memcached-dotnet.git"	
 	"https://github.com/pip-services-dotnet/pip-services-redis-dotnet.git"	
 	"https://github.com/pip-services-dotnet/pip-services-prometheus-dotnet.git"	
+	"https://github.com/pip-services-dotnet/pip-services-rabbitmq-dotnet.git"	
 	"https://github.com/pip-services-dotnet/pip-services-azure-dotnet.git"		
 	"https://github.com/pip-services-dotnet/pip-services-aws-dotnet.git"
 	"https://github.com/pip-services-dotnet/pip-services-test-dotnet.git"	

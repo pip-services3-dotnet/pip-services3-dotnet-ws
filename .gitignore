@@ -11,6 +11,7 @@
 /pip-services-memcached-dotnet
 /pip-services-redis-dotnet
 /pip-services-prometheus-dotnet
+/pip-services-rabbitmq-dotnet
 /pip-services-azure-dotnet
 /pip-services-aws-dotnet
 
