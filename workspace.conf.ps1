@@ -8,6 +8,7 @@ $VersionControlRepos = @(
 	"https://github.com/pip-services3-dotnet/pip-services3-data-dotnet.git"
 	"https://github.com/pip-services3-dotnet/pip-services3-rpc-dotnet.git"	
 	"https://github.com/pip-services3-dotnet/pip-services3-messaging-dotnet.git"	
+	"https://github.com/pip-services3-dotnet/pip-services3-expressions-dotnet.git"	
 	"https://github.com/pip-services3-dotnet/pip-services3-mongodb-dotnet.git"	
 	"https://github.com/pip-services3-dotnet/pip-services3-elasticsearch-dotnet.git"	
 	"https://github.com/pip-services3-dotnet/pip-services3-memcached-dotnet.git"	
