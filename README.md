@@ -1,4 +1,4 @@
-# <img src="https://github.com/pip-services3/pip-services3/raw/master/design/Logo.png" alt="Pip.Services Logo" style="max-width:30%"> <br/> Workspace for Pip.Services in .NET
+# <img src="https://uploads-ssl.webflow.com/5ea5d3315186cf5ec60c3ee4/5edf1c94ce4c859f2b188094_logo.svg" alt="Pip.Services Logo" width="200"> <br/> Workspace for .NET
 
 This is a workspace for [Pip.Services V3](https://github.com/pip-services3/pip-services3) microservices toolkit implemented in .NET. It enables build, test, and release across the following projects:
 
