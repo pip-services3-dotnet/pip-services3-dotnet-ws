@@ -19,6 +19,9 @@ git clone git@github.com:pip-services3-dotnet/pip-services3-memcached-dotnet
 git clone git@github.com:pip-services3-dotnet/pip-services3-redis-dotnet
 git clone git@github.com:pip-services3-dotnet/pip-services3-prometheus-dotnet
 git clone git@github.com:pip-services3-dotnet/pip-services3-rabbitmq-dotnet
+git clone git@github.com:pip-services3-dotnet/pip-services3-mqtt-dotnet
+git clone git@github.com:pip-services3-dotnet/pip-services3-kafka-dotnet
+git clone git@github.com:pip-services3-dotnet/pip-services3-nats-dotnet
 git clone git@github.com:pip-services3-dotnet/pip-services3-datadog-dotnet
 git clone git@github.com:pip-services3-dotnet/pip-services3-azure-dotnet
 git clone git@github.com:pip-services3-dotnet/pip-services3-aws-dotnet
